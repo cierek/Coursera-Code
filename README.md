@@ -1,2 +1,2 @@
 # Coursera-Code
-My code
+Some code produced during the Course "Python for Everybody" from Coursera;)
